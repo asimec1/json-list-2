@@ -1,1 +1,3 @@
-# json-list-2
+# JSON polje (array)
+
+# JSON object
